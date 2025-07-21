@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\gitProjects\\CV_Screening\\CVToolApi\\CVToolApi.csproj": {}
+    "D:\\gitProjects\\CV_screening-1\\CV_screening_BE\\CVToolApi.csproj": {}
   },
   "projects": {
-    "D:\\gitProjects\\CV_Screening\\CVToolApi\\CVToolApi.csproj": {
+    "D:\\gitProjects\\CV_screening-1\\CV_screening_BE\\CVToolApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\gitProjects\\CV_Screening\\CVToolApi\\CVToolApi.csproj",
+        "projectUniqueName": "D:\\gitProjects\\CV_screening-1\\CV_screening_BE\\CVToolApi.csproj",
         "projectName": "CVToolApi",
-        "projectPath": "D:\\gitProjects\\CV_Screening\\CVToolApi\\CVToolApi.csproj",
+        "projectPath": "D:\\gitProjects\\CV_screening-1\\CV_screening_BE\\CVToolApi.csproj",
         "packagesPath": "C:\\Users\\jason\\.nuget\\packages\\",
-        "outputPath": "D:\\gitProjects\\CV_Screening\\CVToolApi\\obj\\",
+        "outputPath": "D:\\gitProjects\\CV_screening-1\\CV_screening_BE\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jason\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -47,6 +47,10 @@
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"
+            },
+            "UglyToad.PdfPig": {
+              "target": "Package",
+              "version": "[1.7.0-custom-5, )"
             }
           },
           "imports": [
